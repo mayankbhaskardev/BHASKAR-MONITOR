@@ -135,7 +135,6 @@ BHASKAR-MONITOR/
 │
 └── README.md
 
-
 ---
 
 # 🚀 Installation
