@@ -1,0 +1,11 @@
+name: exploit-builder
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - requests
+      - aiohttp
+      - colorama
+      - pycryptodome
